@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Tecnologia descomplicada 🎥
 
 ## 📒 Descrição
 Este vídeo de 15 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
