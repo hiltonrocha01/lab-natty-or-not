@@ -15,5 +15,9 @@ O vídeo é uma chamada curta para viajar no mundo da tecnologia.
 
 [https://1drv.ms/v/c/dd735c96b11348d2/EVLKPqc6xY5NnwZenncDyYoBnMMnIIWFBaSA9D0JtErDBQ?e=NzBPBr]()
 
+
+https://github.com/user-attachments/assets/dc52d4e3-784a-4b09-8201-c74c693be741
+
+
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
